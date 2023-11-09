@@ -8,6 +8,18 @@ h1 {
     color: navy;
 }
 
+h2 {
+    font-family: 'Segoe UI', Tahoma;
+    font-size: 35px;
+    color: green;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma;
+    font-size: 25px;
+    font-weight: lighter;
+}
+
 p {
     font-family: 'Segoe UI', Tahoma;
     font-weight: light;
